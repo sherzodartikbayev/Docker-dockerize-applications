@@ -1,5 +1,7 @@
 # Dockerize Applications Collection 🐳
 
+<img width="300" height="280" alt="Docker_Dont_Proportions_300x248" src="https://github.com/user-attachments/assets/0e790c84-decc-429a-9756-aeee62f0dd6f" />
+
 A collection of reference implementations and configurations for dockerizing various modern web applications. This repository serves as a practical guide and template collection for containerizing environments ranging from simple HTML/JS setups to full-stack MERN and Next.js applications.
 
 ## 📁 Repository Structure
